@@ -1,2 +1,2 @@
 # HackerRankSolution
-Solution of hackerrank.com problems using My SQL, Python3
+Solution of hackerrank.com problems using JavaScript(Node.js)
